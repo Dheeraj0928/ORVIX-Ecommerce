@@ -2,21 +2,17 @@
 
 A production-ready ecommerce growth platform marketing site built with modern Next.js tooling.
 
-![ORVIX Commerce preview](public/window.svg)
-
-## Project overview
-
-ORVIX Commerce is a full marketing website for an AI-driven ecommerce operations agency. It includes:
-
-- 92+ frontend routes across marketing, blog, case studies, services, pricing, and legal pages
-- Lead capture APIs for newsletter and contact forms
-- SEO-ready content, sitemap, and metadata config
-- Rebrandable theme driven by `config/brand.ts`
-- Delivery-ready structure for Vercel deployment
+ture for Vercel deployment
 
 ## What visitors see
 
-![Live demo](public/globe.svg)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e07f8253-666a-45fe-99c7-922b7243fc28" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa67071c-9a87-458c-84b2-91df59890e5f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d6f8e02-d693-430e-a496-4403c2b3edfd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62431a35-172a-43db-aec0-e868cfe2a2a5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6475034a-bc95-4df7-9c26-4ae7ad545487" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8ddecc8-eb67-40fd-a0eb-2e680645e7b7" />
+
 
 This repository is designed to give any reviewer a clear overview of the product:
 
