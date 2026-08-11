@@ -5,15 +5,7 @@ A production-ready ecommerce growth platform marketing site built with modern Ne
 ture for Vercel deployment
 
 ## What visitors see
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8cd7423-b58e-457a-ad2c-1c896391f899" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41303f85-5fae-4e06-8b69-acff48cf8783" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a80cd8c1-bb0b-411a-894f-119ade259f82" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7675b16-defd-4f5c-93ba-0f3d8fd9ce4f" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88fa8c47-10ba-4663-a8a8-efc125ba33e0" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a46bb061-3fb4-471f-ad07-2a20811cce91" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/db24106c-7ca2-4c03-b289-59112c40efe9" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae85315d-2f8d-47c9-be0f-c01a2980d0da" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9161d4b-1373-4e73-a2b8-59c2a94c1be0" />
+<img width="1085" height="16384" alt="orvix-commerce vercel app_ (1)" src="https://github.com/user-attachments/assets/eccf4a1d-918f-4d33-8fdf-8fd28b0b5f4d" />
 
 
 
