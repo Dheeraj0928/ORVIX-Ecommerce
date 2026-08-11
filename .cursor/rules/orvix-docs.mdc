@@ -1,0 +1,15 @@
+---
+description: ORVIX project source of truth and workflow
+alwaysApply: true
+---
+
+# ORVIX Commerce Rules
+
+1. Read every file in `/docs` before writing or modifying code. Treat `/docs` as source of truth. Never violate them.
+2. Update `docs/project-status.md` after every major milestone.
+3. Append important architectural choices to `docs/decision-log.md`.
+4. Never hardcode company name, tagline, colors, or contact — use `config/brand.ts`.
+5. Before creating any page: think → research → layout → reusable components → assemble → perf → a11y → SEO → SaaS review.
+6. This is a software-company marketing site (platform-first), not a generic agency brochure.
+7. Framer Motion only for animation unless decision-log changes that.
+8. Phase 0 foundation must be approved before implementing marketing pages.
